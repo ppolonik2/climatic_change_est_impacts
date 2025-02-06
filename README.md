@@ -10,6 +10,7 @@ Link [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910
 
 ## Directory descriptions:
 
+```
    environment.yml contains the conda environment specifications used to run these scripts.
                    It is not necessarily a clean minimal version, but it works on our machine
                    to run all the scripts below.
@@ -40,6 +41,6 @@ Link [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910
        means_project.py                        Code for figure 8
        get_gdp_fes.py                          Executes fixed effect GDP regressions and saves output
        fit_and_project_fe.r                    R script to run regressions
-
+```
 
 
