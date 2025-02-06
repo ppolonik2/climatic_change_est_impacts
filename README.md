@@ -6,6 +6,7 @@ Contact: ppolonik@ucsd.edu
 Download data separately from the Harvard Dataverse.
    Due to file size limitations, data and gdp_data need to be downloaded separately
    gdp_data should be placed in ./data/gdp/
+   
 Link [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AXLJZ6)
 
 ## Directory descriptions:
