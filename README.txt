@@ -1,3 +1,7 @@
+# This directory contains scripts to make the figures for:
+# Estimating the impacts of climate change: reconciling disconnects between physical climate and statistical models
+# Link to manuscript in Climatic Change here (when avaiable)
+# Contact: ppolonik@ucsd.edu
 
 #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #
 
